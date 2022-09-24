@@ -1,4 +1,4 @@
-[![](https://komarev.com/ghpvc/?username=dogukyilmaz&color=blueviolet&label=Wanderers&style=flat)](https://github.com/dogukyilmaz)
+[![](https://komarev.com/ghpvc/?username=dogukyilmaz&color=blueviolet&label=Wanderers&style=for-the-badge)](https://github.com/dogukyilmaz)
 
 ### Hello friend.
 
