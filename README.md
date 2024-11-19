@@ -10,15 +10,13 @@ Consider it a *"work in progress"* — evolving, just like everything else.
 
 ---
 
-### What's Next at some point?
+### What's next at some point?
 
 - **Reorganizing and cleaning up** the mess.
 - **Republishing updated, polished projects** in the near future.
 - **Staying focused on growth** and creating better work.
 
 ---
-
-### Stay Tuned
 
 Until then, feel free to look around or reach out.  
 Good things take time — and they're on their way.
