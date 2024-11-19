@@ -1,18 +1,24 @@
-[![](https://komarev.com/ghpvc/?username=dogukyilmaz&color=blueviolet&label=Wanderers&style=for-the-badge)](https://github.com/dogukyilmaz)
+[![](https://komarev.com/ghpvc/?username=doguyilmaz&base=4997&color=blueviolet&abbreviated=true&label=Wanderers)](https://github.com/doguyilmaz)
 
-### Hello friend.
+### Hello, wanderer.
 
-<!--
-**douscriptist/douscriptist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Yeah, I know... this place feels a bit chaotic right now.  
+Some repositories are outdated — a reflection of where I once was, not where I am now.  
+Consider it a *"work in progress"* — evolving, just like everything else.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What's Next at some point?
+
+- **Reorganizing and cleaning up** the mess.
+- **Republishing updated, polished projects** in the near future.
+- **Staying focused on growth** and creating better work.
+
+---
+
+### Stay Tuned
+
+Until then, feel free to look around or reach out.  
+Good things take time — and they're on their way.
