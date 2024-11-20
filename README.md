@@ -5,7 +5,7 @@
 ---
 
 Yeah, I know... this place feels a bit chaotic right now.  
-Some repositories are outdated — a reflection of where I once was, not where I am now.  
+Most of the repositories are outdated — a reflection of where I once was, not where I am now.  
 Consider it a *"work in progress"* — evolving, just like everything else.
 
 ---
