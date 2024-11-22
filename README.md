@@ -8,13 +8,6 @@ Yeah, I know... this place feels a bit chaotic right now.
 Most of the repositories are outdated — a reflection of where I once was, not where I am now.  
 Consider it a *"work in progress"* — evolving, just like everything else.
 
-
-### What's next at some point?
-
-- **Reorganizing and cleaning up** the mess.
-- **Republishing updated, polished projects** in the near future.
-- **Staying focused on growth** and creating better work.
-
 ---
 
 Until then, feel free to look around or reach out.  
